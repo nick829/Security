@@ -1,0 +1,25 @@
+body {
+    background: #0f0f0f;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+    padding-top: 100px;
+}
+
+button {
+    background: #5865F2;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.login-box {
+    background: #1e1e1e;
+    padding: 30px;
+    width: 400px;
+    margin: auto;
+    border-radius: 10px;
+}
